@@ -1,0 +1,9 @@
+# Applications Folder
+
+This folder contains individual job application folders.
+
+Each application should be saved in the format:
+`YYYY-MM-DD_CompanyName_RoleTitle`
+
+Example: `2025-12-25_Google_FinancialAnalyst`
+
