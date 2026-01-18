@@ -36,7 +36,7 @@ Financial Analyst with **4+ years** of experience in financial modeling, forecas
 - Manage multiple concurrent projects, balancing priorities and meeting deadlines independently
 - Automated CRM reporting for **2,000+ accounts**, improving data accuracy and efficiency by **30%**
 
-**Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
+**Financial Operations Manager (Pro Bono)** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
 - Maintained accurate records and forecasts of **$500K+ annual budget** including cash flow and obligations
 - Partnered with Accounting on **month-end close**, including journal entries, accruals, and reconciliations
