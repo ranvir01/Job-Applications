@@ -25,7 +25,7 @@ MyConsulting Network Inc. | Seattle, WA
 **Financial Operations Manager (Pro Bono)** | June 2020 – June 2024  
 Thind Transport LLC | Kent, WA
 
-- Maintained accurate records and forecasts of **$500K+ annual budget** including cash flow and obligations
+- Maintained accurate records and forecasts of **$1M+ annual operating budget** including cash flow and obligations
 - Partnered with Accounting on **month-end close**, including journal entries, accruals, and reconciliations
 - Prepared monthly reports for leadership and served as liaison between operations and accounting
 - **Automated financial reporting by 80%** using Excel VBA, improving accuracy and internal controls
