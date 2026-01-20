@@ -2,7 +2,7 @@
 
 This folder contains resume versions for different role types.
 
-> **⚠️ AI AGENTS**: When creating application-specific resumes, save them in `applications/` folder and ALWAYS create the PDF version using `npx md-to-pdf`!
+> **⚠️ AI AGENTS**: When creating resumes, follow `/workspace/RESUME_INSTRUCTIONS.md` for the full automated process. Save application-specific resumes in `applications/` folder and ALWAYS create the PDF version using `npx md-to-pdf`!
 
 ## Files
 

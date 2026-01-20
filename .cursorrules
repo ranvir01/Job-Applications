@@ -1,0 +1,35 @@
+# Cursor Rules for Job Applications Workspace
+
+## Resume Creation
+
+When the user requests a resume for a job (any phrasing like "create resume", "make resume", "tailor resume", "apply for this job", etc.) with a job description:
+
+1. **ALWAYS read and follow**: `/workspace/RESUME_INSTRUCTIONS.md`
+2. **ALWAYS read framing guidelines**: `/workspace/resumes/README.md` (Universal Resume Writing Principles section)
+3. **ALWAYS use as source**: `/workspace/resumes/master-resume.md`
+
+Execute the full automated process in RESUME_INSTRUCTIONS.md without asking clarifying questions.
+
+## Key Framing Rules (Quick Reference)
+
+- Frame AI usage as augmentation with human ownership
+- Lead bullets with business outcomes, not tool names
+- Describe scale by complexity/techniques, not row counts
+- Show stakeholder adaptability and changing requirements
+- Walk through decisions with questions and outcomes
+- Avoid red flag phrases (see README.md for full list)
+
+## File Organization
+
+- Master resume source: `/workspace/resumes/master-resume.md`
+- Application-specific files: `/workspace/applications/[company-name]/`
+- Always generate PDF using: `npx md-to-pdf [file.md]`
+- Update tracker: `/workspace/tracker.md`
+
+## Output Requirements
+
+For each job application, create:
+1. `applications/[company]/job-description.md` - saved JD
+2. `applications/[company]/resume.md` - tailored resume
+3. `applications/[company]/resume.pdf` - PDF version
+4. Update `tracker.md` with new entry
