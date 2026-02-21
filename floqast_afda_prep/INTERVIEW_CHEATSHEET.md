@@ -7,7 +7,7 @@
 - **80% time savings** - VBA automation at Thind Transport
 - **95% conversion rate** - Salesforce lead-to-opportunity after rebuild
 - **700+ duplicates cleaned** - Salesforce data cleanup
-- **$500K+ budget** - Thind Transport budget you supported
+- **$1M+ budget** - Thind Transport budget you supported
 - **$1.45M-$1.75M** - Business valuation delivered (TTV)
 - **46-page report** - Investor-ready valuation deliverable (TTV)
 
@@ -67,7 +67,7 @@
 | **Professional Documentation** | **TTV 46-page report** | **Investor-ready deliverable** |
 | AI Experience | ChatGPT/Cursor for Salesforce | Self-taught, no dev background |
 | Customer-Facing | CFO dashboard + TTV owner presentation | Real-time vs. static spreadsheets |
-| Accounting | Month-end close | $500K+ budget |
+| Accounting | Month-end close | $1M+ budget |
 | Variance Analysis (Thind) | Fuel spike investigation | 20% unfavorable explained |
 | Training/Enablement | Sales team workflow training | Team adoption success |
 | Problem-Solving | Proactive bug fixes | Zero major outages |
@@ -136,7 +136,7 @@
 **Role**: Assistant Manager & Financial Advisor (2020-2024)
 
 **Accounting Workflows**:
-- Month-end close support ($500K+ budget)
+- Month-end close support ($1M+ budget)
 - Journal entries (accruals, depreciation, payroll)
 - Bank reconciliations (operating account)
 - Variance analysis (budget vs. actual)
@@ -189,7 +189,7 @@
 ❌ Apologizing for gaps (own them confidently)  
 ❌ Not linking to your experience ("That's a great question..." → "At Thind Transport, I...")  
 ❌ Speaking too fast (breathe, pause between thoughts)  
-❌ Forgetting your numbers (80%, 2000+, $500K+)  
+❌ Forgetting your numbers (80%, 2000+, $1M+)  
 ❌ Not asking questions (shows lack of interest)
 
 ✅ Authentic about gaps  

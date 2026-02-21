@@ -38,7 +38,7 @@ Finance professional with **4+ years** of experience in financial reporting, bil
 
 **Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Managed **$500K+ annual budget** including revenue tracking, expense reconciliation, and P&L reporting
+- Managed **$1M+ annual operating budget** including revenue tracking, expense reconciliation, and P&L reporting
 - Partnered with Accounting on **month-end close**, calculating accruals and ensuring accurate financial statements
 - Owned invoicing and billing processes for B2B client contracts, ensuring accuracy and timely collections
 - **Automated financial reporting by 80%** using Excel VBA, driving process efficiency and data integrity

@@ -263,7 +263,7 @@ py generate_variance_analysis.py
 
 ### Key Numbers to Remember:
 - FloQast: 38% recon reduction, 20% faster close, 27 hours saved/month
-- Your experience: 80% VBA automation, $500K+ budget support
+- Your experience: 80% VBA automation, $1M+ budget support
 - Agent config: $500 materiality threshold, 2-3 hours saved
 
 ---

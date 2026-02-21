@@ -57,7 +57,7 @@
 
 > Budget analysis has been central to my work:
 >
-> At Thind Transport, I monitored a **$500K+ annual budget**, tracking actual expenditures against the adopted budget. I:
+> At Thind Transport, I monitored a **$1M+ annual operating budget**, tracking actual expenditures against the adopted budget. I:
 > - Identified variances and investigated the causes
 > - Reported significant deviations to leadership
 > - Reconciled budget accounts monthly

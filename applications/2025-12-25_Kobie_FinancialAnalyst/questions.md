@@ -73,7 +73,7 @@
 >
 > Currently, I'm an independent consultant doing financial strategy for multiple clients. My work includes budgeting, forecasting, variance analysis, and monthly reporting. I prepare executive dashboards, lead re-forecasting cycles, and partner with stakeholders to build driver-based projections. I've also automated reporting workflows—for one client, I set up Salesforce reporting for 2,000+ accounts.
 >
-> Before consulting, I spent four years as Business Manager for a transportation company. I owned a $500K+ annual budget, did monthly P&L reporting, and partnered with accounting on month-end close. I calculated accruals, tracked expenses against budget, and prepared variance explanations for leadership. I also automated our financial reporting using Excel VBA, which cut manual work by 80%.
+> Before consulting, I spent four years as Business Manager for a transportation company. I owned a $1M+ annual operating budget, did monthly P&L reporting, and partnered with accounting on month-end close. I calculated accruals, tracked expenses against budget, and prepared variance explanations for leadership. I also automated our financial reporting using Excel VBA, which cut manual work by 80%.
 >
 > The common thread is full-cycle FP&A: budgeting, forecasting, variance analysis, close support, and executive reporting—all with a focus on process improvement.
 

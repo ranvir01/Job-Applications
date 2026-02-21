@@ -37,7 +37,7 @@ Keep this open while working through exercises.
 
 1. **80%** - Time savings from VBA automation
 2. **2,000+** - Accounts in Salesforce automation
-3. **$500K+** - Budget you supported at Thind Transport
+3. **$1M+** - Budget you supported at Thind Transport
 
 ---
 

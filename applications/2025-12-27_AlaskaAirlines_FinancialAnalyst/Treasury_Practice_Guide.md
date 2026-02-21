@@ -574,7 +574,7 @@
 **Instead of:** "I don't have Treasury experience"
 
 **Say:**
-> "While I haven't worked in a formal Treasury role, I have directly applicable experience. At Thind Transport, I managed a $500K+ budget including forecasting cash flow obligations, processing payments, and reconciling accounts - all core Treasury functions. I supported month-end close by preparing journal entries and variance analysis. I also automated our payment tracking system using VBA, which improved accuracy and controls. To understand Treasury operations specifically, I researched aircraft financing and built practice amortization schedules and cash flow forecasts to ensure I hit the ground running."
+> "While I haven't worked in a formal Treasury role, I have directly applicable experience. At Thind Transport, I managed a $1M+ budget including forecasting cash flow obligations, processing payments, and reconciling accounts - all core Treasury functions. I supported month-end close by preparing journal entries and variance analysis. I also automated our payment tracking system using VBA, which improved accuracy and controls. To understand Treasury operations specifically, I researched aircraft financing and built practice amortization schedules and cash flow forecasts to ensure I hit the ground running."
 
 ### When Discussing Attention to Detail
 

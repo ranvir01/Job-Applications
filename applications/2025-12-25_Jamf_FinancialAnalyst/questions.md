@@ -66,7 +66,7 @@
 >
 > Currently, I run an independent consulting practice where I provide financial strategy to multiple clients. My work includes financial modeling, forecasting, and variance analysis. I've delivered valuations up to $1.75M using EBITDA multiples, built executive dashboards, and prepared Board-ready presentations. I also own the weekly forecasting process for one client, working directly with department leaders to update projections.
 >
-> Before that, I managed financial operations for my family's transportation business. I handled a $500K+ annual budget, did monthly P&L reporting, and collaborated with our accountant on month-end close. I automated a lot of our reporting using Excel VBA, which cut manual work by about 80%. I also negotiated contracts that reduced our costs by 10%.
+> Before that, I managed financial operations for my family's transportation business. I handled a $1M+ annual operating budget, did monthly P&L reporting, and collaborated with our accountant on month-end close. I automated a lot of our reporting using Excel VBA, which cut manual work by about 80%. I also negotiated contracts that reduced our costs by 10%.
 >
 > The common thread is taking ownership of the numbers and translating them into insights that drive decisions. That's exactly what this role at Jamf is asking for.
 

@@ -38,7 +38,7 @@ Finance professional with **4+ years** building driver-based financial models, d
 
 **Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Owned **$500K+ annual budget** including revenue forecasting, variance analysis, and target setting
+- Owned **$1M+ annual operating budget** including revenue forecasting, variance analysis, and target setting
 - Led **Rhythm of Business**: monthly close, quarterly forecasts, annual budgets, and business reviews
 - Built **driver-based P&L models** identifying key performance indicators and trend analysis
 - **Automated financial reporting by 80%** using Excel (VBA, Pivot Tables, advanced formulas)

@@ -39,7 +39,7 @@ Finance professional with **4+ years** of experience in financial modeling, valu
 **Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
 - Negotiated contracts with vendors and partners, achieving **10% cost reduction** through risk allocation and terms optimization
-- Built financial models for **$500K+ annual budget** including forecasting, variance analysis, and risk assessment
+- Built financial models for **$1M+ annual operating budget** including forecasting, variance analysis, and risk assessment
 - Coordinated closing processes for vendor agreements, managing deadlines and document accuracy
 - Led cross-functional collaboration with operations, maintenance, and external contractors
 - **Automated financial reporting by 80%** using Excel VBA, improving accuracy and deadline management

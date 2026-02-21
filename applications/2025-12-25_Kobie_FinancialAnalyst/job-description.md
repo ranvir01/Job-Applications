@@ -66,7 +66,7 @@ How You Will Make an Impact:
 ### My Matching Qualifications
 - ✅ **3+ years FP&A experience** – 4+ years across consulting and business management
 - ✅ **Bachelor's in Finance** – BA Business Administration with Finance concentration from UW Foster
-- ✅ **Budgeting & forecasting** – Managed $500K+ annual budget, monthly forecasting
+- ✅ **Budgeting & forecasting** – Managed $1M+ annual operating budget, monthly forecasting
 - ✅ **Variance analysis** – Core skill in both consulting and business management roles
 - ✅ **Cross-functional collaboration** – Worked with clients, leadership, and accounting on financial processes
 - ✅ **Process automation** – Reduced reporting time by 80% through VBA automation

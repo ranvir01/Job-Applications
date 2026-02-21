@@ -81,7 +81,7 @@
 ## 💡 Application Strategy
 
 ### Resume Focus Areas (Amazon Leadership Principles)
-- **Ownership**: "Managed $500K+ budget", "Drove 15-20% returns"
+- **Ownership**: "Managed $1M+ budget", "Drove 15-20% returns"
 - **Bias for Action**: "Automated reporting by 80%", process improvements
 - **Dive Deep**: Variance analysis, financial modeling, data analysis
 - **Deliver Results**: Quantified outcomes throughout

@@ -66,7 +66,7 @@ A day in the life:
 ### My Matching Qualifications
 - ✅ **Bachelor's in Business Administration** – BA Business Admin with Finance concentration from UW Foster
 - ✅ **MS Office proficiency** – Advanced Excel (VBA, Pivot Tables), PowerPoint, Word
-- ✅ **Budget and expense experience** – Managed $500K+ budget, expense reconciliations
+- ✅ **Budget and expense experience** – Managed $1M+ budget, expense reconciliations
 - ✅ **Process improvement** – Automated reporting by 80%, implemented workflow improvements
 - ✅ **Relationship building** – Client-facing consulting, stakeholder management
 - ✅ **Organizational skills** – Managed multiple clients, projects, and deadlines

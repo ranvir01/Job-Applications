@@ -81,7 +81,7 @@
 ### 6. "Walk me through your accounting close experience" ⚠️ GAP-OWNING CRITICAL
 
 **STAR Answer**:
-- **Situation**: At Thind Transport, I supported month-end close for a $500K+ budget
+- **Situation**: At Thind Transport, I supported month-end close for a $1M+ budget
 - **Task**: My role was to assist with close tasks, not own the full close (being transparent)
 - **Action**: I handled:
   - Recording journal entries (accruals, prepayments, depreciation)

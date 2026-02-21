@@ -131,7 +131,7 @@ Track in `PRACTICE_LOG.md`:
 - [ ] **Day 6**: Final polish + dress rehearsal
 - [ ] **Print**: INTERVIEW_CHEATSHEET.md
 - [ ] **Prepare**: 5-7 questions for interviewer
-- [ ] **Review**: 3 key numbers (80%, 2,000+, $500K)
+- [ ] **Review**: 3 key numbers (80%, 2,000+, $1M+)
 
 ---
 

@@ -63,7 +63,7 @@
 >
 > **Business valuation**: Delivered a $1.45M–$1.75M valuation using EBITDA multiples and DCF methodology. Built the model from first principles—projecting revenue, costs, and cash flows, then running sensitivity analysis on key assumptions.
 >
-> **Budgeting/forecasting**: Managed $500K+ annual budget with monthly forecasting and variance analysis. Built driver-based models connecting operational inputs to financial outcomes.
+> **Budgeting/forecasting**: Managed $1M+ annual operating budget with monthly forecasting and variance analysis. Built driver-based models connecting operational inputs to financial outcomes.
 >
 > **Strategic analysis**: For consulting clients, I've modeled new initiative scenarios, cost-benefit analyses, and pricing strategy impacts.
 >

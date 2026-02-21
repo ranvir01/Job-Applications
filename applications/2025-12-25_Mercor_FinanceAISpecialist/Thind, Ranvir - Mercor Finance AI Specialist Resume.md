@@ -39,7 +39,7 @@ Finance professional with **4+ years** of experience in financial modeling, valu
 **Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
 - Built DCF and financial projection models to support strategic decision-making
-- Managed **$500K+ annual budget** including forecasting, variance analysis, and P&L reporting
+- Managed **$1M+ annual operating budget** including forecasting, variance analysis, and P&L reporting
 - **Automated financial reporting by 80%** using Excel VBA, creating reusable templates and workflows
 - Documented financial processes and trained team members on automated reporting systems
 - Performed detailed variance analysis identifying key drivers and translating findings into clear recommendations

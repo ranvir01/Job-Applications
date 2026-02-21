@@ -120,7 +120,7 @@ After completing the simulation, prepare 2-3 stories you can reference:
 > "I'm advanced in Excel. To prepare for Treasury work specifically, I practiced building debt amortization schedules calculating principal and interest splits using PMT, IPMT, and PPMT functions. I also built reconciliation worksheets using INDEX/MATCH to validate payments against schedules, which taught me how Treasury catches variances before they compound..."
 
 **Story 3: Transferable Experience**
-> "At Thind Transport, I managed payment processing and reconciliation for a $500K+ budget - similar to Treasury's portfolio management. I built automated controls to flag variances before month-end close and partnered with accounting on journal entries. While it wasn't aircraft debt, the core functions - forecasting cash obligations, processing payments, reconciling to bank statements, supporting close - directly translate to Treasury work..."
+> "At Thind Transport, I managed payment processing and reconciliation for a $1M+ budget - similar to Treasury's portfolio management. I built automated controls to flag variances before month-end close and partnered with accounting on journal entries. While it wasn't aircraft debt, the core functions - forecasting cash obligations, processing payments, reconciling to bank statements, supporting close - directly translate to Treasury work..."
 
 ---
 
@@ -162,7 +162,7 @@ I regularly build cash flow forecast models to track payment obligations over ro
 
 I've also built VBA automation that reduced reporting time by 80% at my previous role - specifically automating monthly financial reports and reconciliations to improve accuracy and internal controls. I created variance analysis worksheets that automatically flag discrepancies greater than set thresholds, which is critical for month-end close and audit documentation.
 
-At Thind Transport, I managed payment processing and budget tracking for a $500K+ portfolio, maintaining accurate records of financial obligations and partnering with accounting on month-end close. I built automated reconciliation controls and maintained documentation for compliance - similar to the SOX requirements mentioned in the Treasury role.
+At Thind Transport, I managed payment processing and budget tracking for a $1M+ portfolio, maintaining accurate records of financial obligations and partnering with accounting on month-end close. I built automated reconciliation controls and maintained documentation for compliance - similar to the SOX requirements mentioned in the Treasury role.
 
 I'm comfortable building complex financial models from scratch, troubleshooting existing spreadsheets, and working with large datasets to ensure accuracy."
 

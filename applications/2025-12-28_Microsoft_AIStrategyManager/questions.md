@@ -33,7 +33,7 @@
 **Your Answer:**
 > I'm a Finance major from UW Foster with 4+ years of hands-on experience in financial strategy. For the past year, I've run my own consulting practice, delivering valuations, financial models, and strategic recommendations that drove 15-20% returns for clients. One project had me build a $1.45M-$1.75M business valuation from scratch—market analysis, EBITDA multiples, sensitivity testing, executive presentation.
 
-> Before that, I managed financial operations for a family transportation business. I owned a $500K+ budget, automated our entire reporting process with VBA, and grew revenue 33% through data-driven strategic planning.
+> Before that, I managed financial operations for a family transportation business. I owned a $1M+ budget, automated our entire reporting process with VBA, and grew revenue 33% through data-driven strategic planning.
 
 > What makes me different is that I'm already AI-native. I use tools like Cursor and OpenAI APIs not just for analysis, but to build products—I redesigned a client's website using AI-assisted development. I want to bring that hands-on understanding of AI's potential to Microsoft's strategic work.
 

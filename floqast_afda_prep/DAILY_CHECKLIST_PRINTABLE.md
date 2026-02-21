@@ -136,7 +136,7 @@
 **Cheatsheet Review (30 min)**:
 - [ ] Memorized: 80% time savings
 - [ ] Memorized: 2,000+ accounts
-- [ ] Memorized: $500K+ budget
+- [ ] Memorized: $1M+ budget
 - [ ] Practiced: Opening statement (15 sec)
 - [ ] Reviewed: Gap-owning responses
 - [ ] PRINTED: INTERVIEW_CHEATSHEET.md

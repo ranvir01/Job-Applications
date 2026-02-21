@@ -92,7 +92,7 @@ Major Duties and Responsibilities:
 ### My Matching Qualifications
 - ✅ **Bachelor's degree** – BA Business Administration with Finance concentration (exceeds 2-year requirement)
 - ✅ **3+ years experience** – 4+ years finance and budget experience
-- ✅ **Budget analysis** – Managed $500K+ budget, variance analysis, forecasting
+- ✅ **Budget analysis** – Managed $1M+ budget, variance analysis, forecasting
 - ✅ **Excel expertise** – VBA, Pivot Tables, advanced functions, spreadsheet design
 - ✅ **Journal entries** – Month-end close support, accruals, reconciliations
 - ✅ **Budget monitoring** – Tracked actuals vs. budget, identified deviations

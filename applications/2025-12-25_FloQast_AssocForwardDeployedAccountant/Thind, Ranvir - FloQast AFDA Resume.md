@@ -41,7 +41,7 @@ Finance professional with **4+ years** of experience in accounting workflows, pr
 - Partnered with Accounting on **month-end close**, including journal entries, accruals, and account reconciliations
 - Performed variance analysis versus budget and prior periods, identifying key drivers and trends
 - **Automated financial reporting by 80%** using Excel VBA, reducing manual work and improving data accuracy
-- Managed **$500K+ annual budget** including monthly forecasting and P&L reporting
+- Managed **$1M+ annual operating budget** including monthly forecasting and P&L reporting
 - Documented financial processes and trained team members on automated reporting systems
 - Collaborated cross-functionally with operations and leadership on financial data and reporting
 

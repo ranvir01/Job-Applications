@@ -47,7 +47,7 @@
 >
 > **Valuation**: Delivered a business valuation using EBITDA multiples and DCF methodology, projecting a $1.45M–$1.75M range with sensitivity analysis on key drivers.
 >
-> **Forecasting**: Managed $500K+ annual budget with monthly forecasting, variance analysis, and P&L reporting. Built driver-based models that connected operational metrics to financial outcomes.
+> **Forecasting**: Managed $1M+ annual operating budget with monthly forecasting, variance analysis, and P&L reporting. Built driver-based models that connected operational metrics to financial outcomes.
 >
 > **Academic**: Built a comprehensive DCF for a $1.737M property with IRR projections and multi-scenario sensitivity analysis. Developed an options strategy for Masimo stock using regression analysis.
 >

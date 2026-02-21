@@ -38,7 +38,7 @@ Financial Analyst with **4+ years** of experience in financial modeling, forecas
 
 **Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Managed **$500K+ annual budget** including forecasting, budgeting, and variance analysis
+- Managed **$1M+ annual operating budget** including forecasting, budgeting, and variance analysis
 - Analyzed business performance to identify key drivers and trends, presenting insights to leadership
 - Built financial models from first principles to support strategic decision-making
 - **Automated financial reporting by 80%** using Excel (VBA, Pivot Tables, VLOOKUP)

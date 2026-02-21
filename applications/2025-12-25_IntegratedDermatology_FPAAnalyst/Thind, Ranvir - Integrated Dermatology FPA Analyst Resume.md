@@ -38,7 +38,7 @@ FP&A professional with **4+ years** driving measurable outcomes through budgetin
 
 **Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Managed **$500K+ annual budget** for multi-departmental organization including monthly forecasting and P&L reporting
+- Managed **$1M+ annual operating budget** for multi-departmental organization including monthly forecasting and P&L reporting
 - Prepared detailed variance analysis versus budget and prior periods, identifying key drivers and trends
 - Created monthly financial reports for leadership with clear communication of financial results and variances
 - **Automated financial reporting by 80%** using advanced Excel (VBA, Pivot Tables, VLOOKUP, INDEX/MATCH)

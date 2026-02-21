@@ -113,7 +113,7 @@
 
 > I've managed budgets and reconciliations directly:
 >
-> At Thind Transport, I managed a **$500K+ annual budget**. This included expense tracking, variance analysis, and monthly reconciliations. I ensured expenses were properly categorized, matched to supporting documentation, and flagged discrepancies for review.
+> At Thind Transport, I managed a **$1M+ annual operating budget**. This included expense tracking, variance analysis, and monthly reconciliations. I ensured expenses were properly categorized, matched to supporting documentation, and flagged discrepancies for review.
 >
 > In my consulting work, I maintain client budgets and perform reconciliations as part of financial reporting. I'm comfortable with the process—tracking expenses, comparing to budget, investigating variances, and ensuring accuracy.
 >

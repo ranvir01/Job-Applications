@@ -6,7 +6,7 @@
 ## Your 3 Key Numbers (Memorize These)
 - **80% time savings** - VBA automation at Thind Transport
 - **2,000+ accounts** - Salesforce automation project
-- **$500K+ budget** - Thind Transport budget you supported
+- **$1M+ budget** - Thind Transport budget you supported
 
 ---
 
@@ -57,7 +57,7 @@
 | Automation | VBA reporting at Thind | 80% time savings |
 | AI Experience | ChatGPT/Cursor for modeling | 15-20% returns |
 | Customer-Facing | Salesforce with skeptical IT | 2,000 → 5,000 accounts |
-| Accounting | Month-end close | $500K+ budget |
+| Accounting | Month-end close | $1M+ budget |
 | Variance Analysis | Fuel spike investigation | 20% unfavorable explained |
 | Reconciliation | Bank recon process | 4-5 hours → 1 hour potential |
 | Training/Enablement | VBA rollout | Team adoption success |
@@ -122,7 +122,7 @@
 **Role**: Assistant Manager & Financial Advisor (2020-2024)
 
 **Accounting Workflows**:
-- Month-end close support ($500K+ budget)
+- Month-end close support ($1M+ budget)
 - Journal entries (accruals, depreciation, payroll)
 - Bank reconciliations (operating account)
 - Variance analysis (budget vs. actual)
@@ -157,7 +157,7 @@
 ❌ Apologizing for gaps (own them confidently)  
 ❌ Not linking to your experience ("That's a great question..." → "At Thind Transport, I...")  
 ❌ Speaking too fast (breathe, pause between thoughts)  
-❌ Forgetting your numbers (80%, 2000+, $500K+)  
+❌ Forgetting your numbers (80%, 2000+, $1M+)  
 ❌ Not asking questions (shows lack of interest)
 
 ✅ Authentic about gaps  

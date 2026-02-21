@@ -38,7 +38,7 @@ Finance Analyst with **4+ years** of experience in resource forecasting, varianc
 
 **Business Manager & Finance Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Created and maintained resource forecasts for **$500K+ annual budget** including labor, non-labor, and overhead costs
+- Created and maintained resource forecasts for **$1M+ annual operating budget** including labor, non-labor, and overhead costs
 - Performed detailed variance analysis versus budget and prior periods, identifying key drivers and trends
 - Supported monthly and quarterly business plan reviews with financial reporting and analysis
 - Proactively drove cost investigation and reduction, achieving **10% operational cost savings**

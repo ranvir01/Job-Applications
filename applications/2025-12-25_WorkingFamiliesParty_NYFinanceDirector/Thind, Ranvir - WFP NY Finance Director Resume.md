@@ -38,7 +38,7 @@ Results-driven professional with **4+ years** managing client relationships, set
 
 **Operations Manager & Financial Advisor** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Managed **$500K+ annual operations** including goal-setting, performance tracking, and monthly reporting
+- Managed **$1M+ annual operations** including goal-setting, performance tracking, and monthly reporting
 - Built strong vendor relationships through strategic outreach, reducing costs by **10%** through negotiations
 - Automated data tracking systems using Excel VBA, cutting administrative time by **80%**
 - Grew revenue portfolio by **33%** through targeted outreach, market research, and relationship cultivation

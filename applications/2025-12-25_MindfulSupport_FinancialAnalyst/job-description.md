@@ -93,7 +93,7 @@ Ad Hoc & Special Projects:
 ### My Matching Qualifications
 - ✅ **Bachelor's in Finance** – BA Business Administration with Finance concentration from UW Foster (3.6 GPA)
 - ✅ **2-5+ years FP&A experience** – 4+ years across consulting and business management
-- ✅ **Financial reporting & budgeting** – Monthly P&L, $500K+ budget management, executive reporting
+- ✅ **Financial reporting & budgeting** – Monthly P&L, $1M+ budget management, executive reporting
 - ✅ **Variance analysis** – Core skill in both current and previous roles
 - ✅ **Month-end close support** – Partnered with accounting on close, calculated accruals
 - ✅ **Financial modeling** – DCF, valuations, forecasting models

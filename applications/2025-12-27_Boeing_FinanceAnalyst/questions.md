@@ -59,7 +59,7 @@
 
 > Resource forecasting has been central to my work:
 >
-> At Thind Transport, I maintained forecasts for a **$500K+ annual budget** including:
+> At Thind Transport, I maintained forecasts for a **$1M+ annual operating budget** including:
 > - **Labor costs**: Tracking headcount, hours, and wages
 > - **Non-labor costs**: Fuel, maintenance, equipment, overhead
 > - **Work placement**: Allocating resources across routes and operations

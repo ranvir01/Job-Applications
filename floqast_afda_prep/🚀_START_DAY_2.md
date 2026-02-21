@@ -40,7 +40,7 @@ There's something satisfying about checking boxes!
 **File**: `QUICK_REFERENCE.md`
 
 Quick lookups while working:
-- Your 3 key numbers (80%, 2,000+, $500K)
+- Your 3 key numbers (80%, 2,000+, $1M+)
 - FloQast products and metrics
 - Gap-owning responses
 - Technical explanation templates

@@ -78,7 +78,7 @@
 >
 > Currently, I'm an independent consultant doing financial strategy for multiple clients. My work includes budgeting, monthly forecasting, variance analysis, and consolidated reporting. I prepare executive dashboards, lead re-forecasting cycles, and communicate financial results to stakeholders clearly—in Excel, PowerPoint, and verbally.
 >
-> Before consulting, I spent four years as Business Manager for a transportation company. I owned a $500K+ annual budget across multiple departments. I did monthly P&L reporting, prepared detailed variance analysis versus budget and prior periods, and built KPI dashboards for leadership. I also automated our financial reporting using Excel VBA, cutting manual work by 80%.
+> Before consulting, I spent four years as Business Manager for a transportation company. I owned a $1M+ annual operating budget across multiple departments. I did monthly P&L reporting, prepared detailed variance analysis versus budget and prior periods, and built KPI dashboards for leadership. I also automated our financial reporting using Excel VBA, cutting manual work by 80%.
 >
 > The common thread: full-cycle FP&A with a focus on clear communication and actionable insights.
 

@@ -129,7 +129,7 @@ What I bring is a combination of technical depth (Excel, SQL, Tableau) and busin
 2. **Excel mastery** – VBA, Pivot Tables, advanced formulas with 80% automation gains
 3. **Business partnering** – Worked cross-functionally with operations, accounting, leadership
 4. **Data visualization** – Tableau experience, dashboard creation, KPI tracking
-5. **P&L ownership** – Managed $500K+ budget with variance analysis
+5. **P&L ownership** – Managed $1M+ budget with variance analysis
 6. **Genuine gaming interest** – Minecraft player, follower of gaming industry economics
 7. **Local to Seattle** – No relocation required
 

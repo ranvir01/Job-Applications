@@ -39,7 +39,7 @@ Budget Analyst with **4+ years** of experience in budget analysis, monitoring, a
 
 **Business Manager & Budget Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Monitored and analyzed **$500K+ annual budget**, ensuring compliance with adopted budget
+- Monitored and analyzed **$1M+ annual operating budget**, ensuring compliance with adopted budget
 - Reconciled budgets and analyzed transactions, identifying and investigating variances
 - Reviewed and processed journal entries, working with accounting on month-end close
 - Established and maintained chart of accounts structure for departmental budgets

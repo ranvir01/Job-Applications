@@ -38,7 +38,7 @@ Finance professional and consultant with **4+ years** of experience in financial
 
 **Business Manager & Financial Analyst** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Managed **$500K+ annual budget** including monthly forecasting, variance analysis, and P&L reporting
+- Managed **$1M+ annual operating budget** including monthly forecasting, variance analysis, and P&L reporting
 - Built VBA-automated Excel dashboards reducing manual reporting time by **80%** using VLOOKUP, INDEX/MATCH, and Pivot Tables
 - Created financial projections and scenario models to support strategic decision-making
 - Reduced operational costs by **10%** through contract negotiations and data-driven vendor analysis

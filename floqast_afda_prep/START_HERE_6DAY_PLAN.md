@@ -233,7 +233,7 @@ py full_mock_interview.py
 **1. Review Interview Cheatsheet** (30 min)
 **File**: `INTERVIEW_CHEATSHEET.md`
 
-- Memorize your 3 key numbers (80%, 2,000+, $500K)
+- Memorize your 3 key numbers (80%, 2,000+, $1M+)
 - Practice opening statement (15 sec)
 - Review gap-owning responses
 - **PRINT THIS** - keep by your side during interview
@@ -289,7 +289,7 @@ By Day 6, you should be able to:
 
 ### 30 Minutes Before Interview:
 - [ ] Review INTERVIEW_CHEATSHEET.md one last time
-- [ ] Review your 3 key numbers (80%, 2,000+, $500K)
+- [ ] Review your 3 key numbers (80%, 2,000+, $1M+)
 - [ ] Review your opening statement
 - [ ] Have your questions ready
 - [ ] Take 3 deep breaths

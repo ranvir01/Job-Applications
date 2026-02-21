@@ -102,7 +102,7 @@ This role is essential to ensuring financial operations support strategic impact
 - ✅ **Bachelor's degree in Finance** – UW Foster School of Business
 - ✅ **3-5 years experience** – 4+ years of FP&A work
 - ✅ **Strong Excel proficiency** – VBA, modeling, complex analyses
-- ✅ **Budgeting & Forecasting** – $500K+ budget, scenario planning
+- ✅ **Budgeting & Forecasting** – $1M+ budget, scenario planning
 - ✅ **Variance Analysis** – Monthly P&L, variance explanations
 - ✅ **Financial Modeling** – DCF, sensitivity analysis, projections
 - ✅ **Board/Executive Reporting** – Dashboards, presentations

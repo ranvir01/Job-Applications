@@ -90,7 +90,7 @@ I regularly build cash flow forecast models to track payment obligations over ro
 
 I've also built VBA automation that reduced reporting time by 80% at my previous role - specifically automating monthly financial reports and reconciliations to improve accuracy and internal controls. I created variance analysis worksheets that automatically flag discrepancies greater than set thresholds, which is critical for month-end close and audit documentation.
 
-At Thind Transport, I managed payment processing and budget tracking for a $500K+ portfolio, maintaining accurate records of financial obligations and partnering with accounting on month-end close. I built automated reconciliation controls and maintained documentation for compliance - similar to the SOX requirements mentioned in the Treasury role.
+At Thind Transport, I managed payment processing and budget tracking for a $1M+ portfolio, maintaining accurate records of financial obligations and partnering with accounting on month-end close. I built automated reconciliation controls and maintained documentation for compliance - similar to the SOX requirements mentioned in the Treasury role.
 
 I'm comfortable building complex financial models from scratch, troubleshooting existing spreadsheets, and working with large datasets to ensure accuracy."
 
@@ -127,7 +127,7 @@ I'm comfortable diving into complex spreadsheets, troubleshooting formulas, and 
 
 **Suggested Response (Option 1 - Financial Modeling Focus):**
 
-"At Thind Transport, I was responsible for maintaining accurate forecasts of our $500K+ annual budget including all financial obligations and cash flow timing. Each month, I partnered with accounting on month-end close, preparing journal entries, accruals, and reconciliations.
+"At Thind Transport, I was responsible for maintaining accurate forecasts of our $1M+ annual operating budget including all financial obligations and cash flow timing. Each month, I partnered with accounting on month-end close, preparing journal entries, accruals, and reconciliations.
 
 The challenge was that our manual reporting process was time-intensive and prone to errors, which made it difficult to provide timely insights to leadership. I built an automated Excel reporting system using VBA that pulled data from multiple sources, performed reconciliations automatically, and generated monthly financial reports.
 
@@ -147,7 +147,7 @@ This experience mirrors the Treasury Financial Analyst role's requirements: mana
 
 **Alternative (Option 3 - Month-End Close Focus):**
 
-"At Thind Transport, I was the liaison between operations and accounting, supporting month-end close for a $500K+ budget. Each month, I prepared journal entries, validated accruals, reconciled accounts, and delivered financial reports to leadership.
+"At Thind Transport, I was the liaison between operations and accounting, supporting month-end close for a $1M+ budget. Each month, I prepared journal entries, validated accruals, reconciled accounts, and delivered financial reports to leadership.
 
 One challenge was managing multiple concurrent obligations - vendor payments, contract compliance, financial reporting deadlines, and ad-hoc analysis requests - all while maintaining accuracy. I implemented a tracking system to ensure nothing fell through the cracks and built automated reconciliation controls in Excel to catch errors before close.
 

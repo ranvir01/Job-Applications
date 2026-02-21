@@ -40,7 +40,7 @@ Strategy and finance professional with **4+ years** turning complex analysis int
 
 **Business Manager & Strategic Advisor** | Thind Transport LLC | Kent, WA | June 2020 to June 2024
 
-- Managed **$500K+ annual budget** with full ownership of forecasting, variance analysis, and strategic planning
+- Managed **$1M+ annual operating budget** with full ownership of forecasting, variance analysis, and strategic planning
 - Grew revenue **33%** through market analysis, financial projections, and data driven initiatives
 - Cut costs **10%** through strategic contract negotiations and improved vendor relationships
 - Built automated dashboards using **Excel VBA** that reduced reporting time by 80%

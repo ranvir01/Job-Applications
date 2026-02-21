@@ -38,7 +38,7 @@ Organized and detail-oriented professional with **4+ years** of experience coord
 
 **Business Manager & Operations Coordinator** | Thind Transport LLC | Kent, WA | June 2020 – June 2024
 
-- Managed **$500K+ annual budget** including expense tracking, reconciliations, and variance analysis
+- Managed **$1M+ annual operating budget** including expense tracking, reconciliations, and variance analysis
 - Coordinated activities across operations, maintenance, and administrative departments
 - Created and maintained administrative procedures and guidelines for department operations
 - Reviewed operating practices and implemented process improvements—**automated reporting by 80%**

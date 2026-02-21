@@ -69,7 +69,7 @@
 >
 > Currently, I'm an independent consultant doing financial strategy for multiple clients. My work includes forecasting, variance analysis, and financial modeling. I've delivered valuations up to $1.75M, built executive dashboards, and automated CRM processes for a client with 2,000+ accounts.
 >
-> Before that, I spent four years managing financial operations for a family transportation business. I owned a $500K+ annual budget, did monthly P&L reporting, and worked closely with our accountant on month-end close. I built automated reporting using Excel VBA that cut manual work by 80%. I also prepared variance explanations and financial projections for leadership.
+> Before that, I spent four years managing financial operations for a family transportation business. I owned a $1M+ annual operating budget, did monthly P&L reporting, and worked closely with our accountant on month-end close. I built automated reporting using Excel VBA that cut manual work by 80%. I also prepared variance explanations and financial projections for leadership.
 >
 > The common thread is taking full ownership of the numbers—budgeting, forecasting, close, variance analysis—and translating them into insights that help people make better decisions.
 

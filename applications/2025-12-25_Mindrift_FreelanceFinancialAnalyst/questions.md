@@ -70,7 +70,7 @@
 > - Executive dashboards and Board-ready presentations
 > - Workflow automation using AI tools and Salesforce
 >
-> Before consulting, I spent four years managing financial operations for a transportation company. I owned a $500K+ annual budget, did monthly P&L reporting, and built VBA-automated dashboards that cut reporting time by 80%.
+> Before consulting, I spent four years managing financial operations for a transportation company. I owned a $1M+ annual operating budget, did monthly P&L reporting, and built VBA-automated dashboards that cut reporting time by 80%.
 >
 > My experience is practical and applied—real business problems, real stakeholders, real outcomes.
 

@@ -85,7 +85,7 @@
 >
 > Currently, I'm an independent consultant doing financial strategy for multiple clients. My work includes budgeting, forecasting, variance analysis, and financial modeling. I've delivered valuations, built executive dashboards, and prepared Board-level presentations. I also automated reporting systems for a client with 2,000+ accounts.
 >
-> Before that, I spent four years managing financial operations for a family transportation business. I owned a $500K+ annual budget, did monthly P&L reporting, and worked closely with accounting on month-end close. I tracked expenses across categories to ensure we stayed within budget—similar to monitoring spending against allocations. I also automated our reporting using Excel VBA, which cut manual work by 80%.
+> Before that, I spent four years managing financial operations for a family transportation business. I owned a $1M+ annual operating budget, did monthly P&L reporting, and worked closely with accounting on month-end close. I tracked expenses across categories to ensure we stayed within budget—similar to monitoring spending against allocations. I also automated our reporting using Excel VBA, which cut manual work by 80%.
 >
 > What I bring is the full cycle of FP&A work: budgeting, forecasting, variance analysis, close support, and executive reporting. The grant management piece is new, but the underlying skills—tracking expenditures, ensuring compliance, reporting to stakeholders—transfer directly.
 

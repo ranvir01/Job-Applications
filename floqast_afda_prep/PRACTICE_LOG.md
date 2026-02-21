@@ -222,7 +222,7 @@ Track your progress each day. Update this as you complete exercises.
 
 ### Afternoon: Final Prep
 **Interview Cheatsheet Review**:
-- [ ] Memorized 3 key numbers (80%, 2,000+, $500K)
+- [ ] Memorized 3 key numbers (80%, 2,000+, $1M+)
 - [ ] Practiced opening statement (smooth, 15 sec)
 - [ ] Reviewed gap-owning responses
 - [ ] Printed cheatsheet for interview day

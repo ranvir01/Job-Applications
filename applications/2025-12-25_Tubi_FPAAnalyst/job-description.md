@@ -92,7 +92,7 @@ You will play a key role in supporting reporting for both internal Tubi teams an
 - ✅ **2-3 years related experience** – 4+ years of FP&A work
 - ✅ **BA/BS degree** – UW Foster School of Business, BA Finance
 - ✅ **Strong Excel skills** – VBA, complex models, big datasets
-- ✅ **Budgeting & Forecasting** – $500K+ budget, monthly forecasting
+- ✅ **Budgeting & Forecasting** – $1M+ budget, monthly forecasting
 - ✅ **P&L Analysis** – Monthly P&L reporting, variance analysis
 - ✅ **Month-end close support** – Collaborated with accounting
 - ✅ **Communication skills** – Executive presentations, stakeholder briefings

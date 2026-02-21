@@ -95,7 +95,7 @@ The Financial Analyst will provide financial decision support to key leadership 
 - ✅ **2+ years FP&A experience** – 4+ years of forecasting, budgeting, variance analysis
 - ✅ **Bachelor's degree in Finance** – UW Foster School of Business, BA in Finance
 - ✅ **Financial Modeling** – DCF analysis, scenario modeling, EBITDA valuations
-- ✅ **Budgeting & Forecasting** – Managed $500K+ annual budget, weekly forecasting
+- ✅ **Budgeting & Forecasting** – Managed $1M+ annual operating budget, weekly forecasting
 - ✅ **Variance Analysis** – Monthly P&L reporting, expense tracking vs. budget
 - ✅ **Executive Reporting** – Board packages, executive dashboards, KPI tracking
 - ✅ **Communication Skills** – Client presentations, stakeholder briefings

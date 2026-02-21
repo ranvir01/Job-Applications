@@ -57,7 +57,7 @@
 
 > I run an independent consulting practice where I manage relationships with multiple clients, set quarterly goals, and track performance against targets. One of my key achievements was building a Salesforce CRM system for a firm with 2,000+ contacts—organizing data, segmenting donors (or in that case, clients), and ensuring accurate follow-up. That's directly transferable to managing a donor database in EveryAction.
 >
-> Before that, I spent four years running operations for my family's transportation business. I managed a $500K annual budget, negotiated with vendors, and built the reporting systems from scratch. I learned how to juggle competing priorities, stay organized under pressure, and get things done when resources are tight.
+> Before that, I spent four years running operations for my family's transportation business. I managed a $1M+ annual operating budget, negotiated with vendors, and built the reporting systems from scratch. I learned how to juggle competing priorities, stay organized under pressure, and get things done when resources are tight.
 >
 > What I don't have is direct political fundraising experience—but I've got the core competencies: relationship cultivation, CRM management, goal-setting, stakeholder briefings, and the work ethic to put in evenings and weekends when it matters. I learn fast, and I'm motivated by the mission.
 
