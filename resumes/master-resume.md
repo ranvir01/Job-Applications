@@ -69,6 +69,15 @@ Financial Planning & Analysis (FP&A) professional with 4+ years driving measurab
 ## Alternate Bullets (For Tailoring)
 
 > **AI Agents**: Swap based on job emphasis. Keep bullets bolded for visual impact. Never use dashes.
+>
+> **CRITICAL FRAMING RULES** (See README.md for full guidance):
+> - Frame AI/tool usage as augmentation with human ownership, not automation replacement
+> - Lead with business outcomes, not tool names (e.g., "Built dashboards informing quarterly planning" not "Used Tableau")
+> - Show adaptability: include stakeholder collaboration and evolving requirements
+> - Describe data complexity by techniques required, not raw row counts
+> - Walk through decisions and outcomes, not just claim "solved real problems"
+> - Connect work to business understanding, not just technical outputs
+> - Demonstrate ramp-up ability with specific examples of learning new domains quickly
 
 **Consulting Focus:**
 - **Partnered with executives** to translate complex financial data into strategic growth initiatives
@@ -88,5 +97,20 @@ Financial Planning & Analysis (FP&A) professional with 4+ years driving measurab
 
 ---
 
-*Master Resume v6.0 | Last Updated: 2025-12-28*
+---
+
+## Framing Guidelines Reference
+
+> **AI Agents**: Before tailoring this resume, review the Universal Resume Writing Principles in `resumes/README.md`. Key reminders:
+>
+> - **Avoid red flag phrases** like "I use AI for everything" or "worked with 10,000+ rows"
+> - **Show business understanding** by connecting technical work to outcomes
+> - **Demonstrate ownership** of AI-assisted work through review, testing, and validation
+> - **Walk through decisions** with specific questions addressed and results achieved
+> - **Frame scale meaningfully** by describing complexity and techniques, not just numbers
+
+---
+
+*Master Resume v7.0 | Last Updated: 2025-01-20*
 *Format: ATS optimized | Bolded achievements | Full one page | No dashes*
+*Enhanced with authentic experience framing guidelines*
